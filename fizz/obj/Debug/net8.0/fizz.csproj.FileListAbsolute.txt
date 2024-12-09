@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Desktop\C#\fizz\bin\Debug\net8.0\fizz.exe
+C:\Users\Windows 10\Desktop\C#\fizz\bin\Debug\net8.0\fizz.deps.json
+C:\Users\Windows 10\Desktop\C#\fizz\bin\Debug\net8.0\fizz.runtimeconfig.json
+C:\Users\Windows 10\Desktop\C#\fizz\bin\Debug\net8.0\fizz.dll
+C:\Users\Windows 10\Desktop\C#\fizz\bin\Debug\net8.0\fizz.pdb
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.dll
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\refint\fizz.dll
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.pdb
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\fizz.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\C#\fizz\obj\Debug\net8.0\ref\fizz.dll

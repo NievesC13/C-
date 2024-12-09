@@ -1,0 +1,9 @@
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\bin\Debug\FormularioWindows.exe.config
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\bin\Debug\FormularioWindows.exe
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\bin\Debug\FormularioWindows.pdb
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.exe
+C:\Users\Windows 10\Desktop\C# VS\FormularioWindows\obj\Debug\FormularioWindows.pdb
