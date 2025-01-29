@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!"); //Para mostrar en pantalla
+﻿Console.WriteLine("Hello, World!"); //Para mostrar en pantalla
 
 string libro = "EL programador Cesar";
 
@@ -205,3 +204,4 @@ Lenguaje css = new Lenguaje("css", 1996);
 css.descripcion();
 Lenguaje python = new Lenguaje("python", 2003);
 python.descripcion();
+

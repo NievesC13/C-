@@ -12,3 +12,18 @@ C:\Users\Windows 10\Desktop\C#\app\obj\Debug\net8.0\refint\app.dll
 C:\Users\Windows 10\Desktop\C#\app\obj\Debug\net8.0\app.pdb
 C:\Users\Windows 10\Desktop\C#\app\obj\Debug\net8.0\app.genruntimeconfig.cache
 C:\Users\Windows 10\Desktop\C#\app\obj\Debug\net8.0\ref\app.dll
+D:\Proyectos\C#\app\bin\Debug\net8.0\app.exe
+D:\Proyectos\C#\app\bin\Debug\net8.0\app.deps.json
+D:\Proyectos\C#\app\bin\Debug\net8.0\app.runtimeconfig.json
+D:\Proyectos\C#\app\bin\Debug\net8.0\app.dll
+D:\Proyectos\C#\app\bin\Debug\net8.0\app.pdb
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.sourcelink.json
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.dll
+D:\Proyectos\C#\app\obj\Debug\net8.0\refint\app.dll
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.pdb
+D:\Proyectos\C#\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+D:\Proyectos\C#\app\obj\Debug\net8.0\ref\app.dll

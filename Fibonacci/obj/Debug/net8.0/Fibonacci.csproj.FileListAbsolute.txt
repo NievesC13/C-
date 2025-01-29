@@ -12,3 +12,18 @@ C:\Users\Windows 10\Desktop\C# VS\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dl
 C:\Users\Windows 10\Desktop\C# VS\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
 C:\Users\Windows 10\Desktop\C# VS\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
 C:\Users\Windows 10\Desktop\C# VS\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
+D:\Proyectos\C#\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+D:\Proyectos\C#\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+D:\Proyectos\C#\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+D:\Proyectos\C#\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+D:\Proyectos\C#\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.sourcelink.json
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+D:\Proyectos\C#\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
